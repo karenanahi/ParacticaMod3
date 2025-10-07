@@ -1,2 +1,2 @@
 # ParacticaMod3
-Practica 3 del curso ,
+Practica 3 del curso
